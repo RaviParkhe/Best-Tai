@@ -16,7 +16,7 @@
         <ol>
             <li>Anger</li>
             <li>Gundagiri</li>
-            <li>Small Brother La Marne <b></b>Hatkoon</b></li>
+            <li>Small Brother La Marne <b>Hatkoon</b></li>
         </ol>
         </p>
     </div>
