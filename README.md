@@ -11,7 +11,7 @@
     <div  style="border:solid 3px rgb(24, 221, 155);">
     <a href="India.html">
     <img src="img1.jpeg" height="300" width="300" alt="Red Roses" Style="border: solid 3px black "> </a>
-    <p> This is Sister and Brother. It is contains three Imgredient. Such as follows
+    <p> This is Sister and Brother. It is contains three Ingredient. Such as follows
         <ol>
             <li>Anger</li>
             <li>Gundagiri</li>
